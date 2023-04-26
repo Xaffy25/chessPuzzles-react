@@ -1,0 +1,570 @@
+[
+    {
+        "puzzleid": "UY7bl",
+        "fen": "r1b2rk1/2p2p2/pp1p2p1/2n1p1q1/2P1P1Pb/NP1P1N1B/P1Q1K3/1R5R b - - 4 18",
+        "rating": 1576,
+        "ratingdeviation": 77,
+        "moves": [
+            "c8g4",
+            "h3g4",
+            "g5g4",
+            "h1h4",
+            "g4g2",
+            "e2e3",
+            "g2c2",
+            "a3c2"
+        ],
+        "themes": [
+            "advantage",
+            "discoveredAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "6WIIg",
+        "fen": "rb5R/1p1bkq2/2p1pn2/2P3Q1/1pBP4/P5P1/5PP1/R3K3 w Q - 2 27",
+        "rating": 1301,
+        "ratingdeviation": 212,
+        "moves": [
+            "e1f1",
+            "b8f4",
+            "g5f4",
+            "a8h8",
+            "f4d6",
+            "e7d8",
+            "d6b8",
+            "d7c8"
+        ],
+        "themes": [
+            "advantage",
+            "discoveredAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "nraGT",
+        "fen": "6k1/pppqn1p1/8/5r1Q/3PNb2/2P5/PP3P1P/4RRK1 w - - 5 21",
+        "rating": 1437,
+        "ratingdeviation": 74,
+        "moves": [
+            "h5g4",
+            "f5g5",
+            "g4g5",
+            "f4g5",
+            "e4g5",
+            "d7g4",
+            "g1h1",
+            "g4g5"
+        ],
+        "themes": [
+            "advantage",
+            "fork",
+            "middlegame",
+            "pin",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "ox2Yh",
+        "fen": "2r2r1k/3nbpp1/1p2p2B/pN1pP3/P1q5/2P4P/3Q1PP1/R3R1K1 b - - 0 26",
+        "rating": 1551,
+        "ratingdeviation": 74,
+        "moves": [
+            "g7h6",
+            "d2h6",
+            "h8g8",
+            "e1e3",
+            "c4h4",
+            "e3g3",
+            "h4g3",
+            "f2g3"
+        ],
+        "themes": [
+            "advantage",
+            "exposedKing",
+            "middlegame",
+            "quietMove",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "txfxW",
+        "fen": "2r1nrk1/pb1q1pp1/1p1ppb1B/1Bn4p/3NP3/2P2N1P/PPQ2PR1/1K4R1 b - - 6 20",
+        "rating": 1717,
+        "ratingdeviation": 246,
+        "moves": [
+            "d7c7",
+            "b5e8",
+            "b7e4",
+            "h6g7",
+            "f6g7",
+            "g2g7",
+            "g8h8",
+            "g7g5"
+        ],
+        "themes": [
+            "advantage",
+            "kingsideAttack",
+            "middlegame",
+            "pin",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "elwTb",
+        "fen": "3r2k1/1p1rbpp1/p5q1/4p2p/1P6/P1NnBP1P/2QR2P1/3R2K1 b - - 0 29",
+        "rating": 1537,
+        "ratingdeviation": 74,
+        "moves": [
+            "e7g5",
+            "e3g5",
+            "g6g5",
+            "d2d3",
+            "d7d3",
+            "d1d3",
+            "d8d3",
+            "c2d3"
+        ],
+        "themes": [
+            "advantage",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "q8Wj2",
+        "fen": "1rq1r1k1/pp2bppp/2p2n2/3pN3/2P2Qb1/1P1PR1P1/PB3PBP/R5K1 b - - 3 20",
+        "rating": 1250,
+        "ratingdeviation": 317,
+        "moves": [
+            "d5c4",
+            "e5g4",
+            "c8g4",
+            "e3e7",
+            "g4f4",
+            "e7e8",
+            "b8e8",
+            "g3f4"
+        ],
+        "themes": [
+            "advantage",
+            "discoveredAttack",
+            "kingsideAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "XT1Th",
+        "fen": "r3r1k1/1p1qbp2/p1p3p1/3Pp1Bp/7Q/2N4R/PP3PPP/4R1K1 w - - 0 21",
+        "rating": 1442,
+        "ratingdeviation": 75,
+        "moves": [
+            "e1e5",
+            "e7g5",
+            "h4g5",
+            "e8e5",
+            "g5e5",
+            "a8e8",
+            "e5e8",
+            "d7e8"
+        ],
+        "themes": [
+            "advantage",
+            "clearance",
+            "discoveredAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "IaYrK",
+        "fen": "3n3r/3nbp2/5kq1/1QpBpb2/2P4P/2BP2P1/PP6/R4RK1 w - - 2 26",
+        "rating": 1519,
+        "ratingdeviation": 83,
+        "moves": [
+            "b5d7",
+            "g6g3",
+            "d5g2",
+            "g3e3",
+            "f1f2",
+            "e3f2",
+            "g1f2",
+            "f5d7"
+        ],
+        "themes": [
+            "advantage",
+            "exposedKing",
+            "kingsideAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "ZcUxo",
+        "fen": "rn2k2r/p4ppp/2pb4/5b2/2BPn2q/2P5/PP2N1PP/RNBQ1RK1 w kq - 3 14",
+        "rating": 1560,
+        "ratingdeviation": 143,
+        "moves": [
+            "f1f5",
+            "h4h2",
+            "g1f1",
+            "h2h1",
+            "e2g1",
+            "e4g3",
+            "f1f2",
+            "g3f5"
+        ],
+        "themes": [
+            "advantage",
+            "fork",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "7P9Fy",
+        "fen": "2r3k1/4qpbp/ppb3p1/8/3P4/N5P1/PPQRP2P/3R2K1 w - - 1 28",
+        "rating": 1506,
+        "ratingdeviation": 75,
+        "moves": [
+            "d4d5",
+            "e7e3",
+            "g1g2",
+            "c6d5",
+            "d2d5",
+            "c8c2",
+            "d5d8",
+            "g7f8"
+        ],
+        "themes": [
+            "advantage",
+            "discoveredAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "nhb28",
+        "fen": "rn1qr1k1/pp4pp/3b1n2/3b2B1/8/2N2N2/PP4PP/R2Q1RK1 w - - 0 19",
+        "rating": 1526,
+        "ratingdeviation": 78,
+        "moves": [
+            "c3d5",
+            "d6c5",
+            "g1h1",
+            "d8d5",
+            "g5f6",
+            "d5d1",
+            "a1d1",
+            "g7f6"
+        ],
+        "themes": [
+            "advantage",
+            "discoveredAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "oxghB",
+        "fen": "r5k1/1bq2rNp/6pP/4p1p1/pp2P3/3B4/PPP1Q3/1K3R2 b - - 3 29",
+        "rating": 1506,
+        "ratingdeviation": 73,
+        "moves": [
+            "f7g7",
+            "d3c4",
+            "g8h8",
+            "h6g7",
+            "h8g7",
+            "f1f7",
+            "c7f7",
+            "c4f7"
+        ],
+        "themes": [
+            "advancedPawn",
+            "advantage",
+            "attraction",
+            "fork",
+            "master",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "x0gua",
+        "fen": "2r3k1/1b2bppp/pP1pp3/3n4/3P4/4PN2/4BPPP/R1B3K1 w - - 1 23",
+        "rating": 1553,
+        "ratingdeviation": 144,
+        "moves": [
+            "c1b2",
+            "c8c2",
+            "e2a6",
+            "b7a6",
+            "a1a6",
+            "c2b2",
+            "a6a8",
+            "e7f8"
+        ],
+        "themes": [
+            "advantage",
+            "fork",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "I3md9",
+        "fen": "4r1k1/pb4p1/5pqp/n1B5/3Pp3/8/P1PQ1PPP/R3R1K1 w - - 4 26",
+        "rating": 1526,
+        "ratingdeviation": 75,
+        "moves": [
+            "d2a5",
+            "e4e3",
+            "d4d5",
+            "b7d5",
+            "f2f3",
+            "d5f3",
+            "e1e2",
+            "f3e2"
+        ],
+        "themes": [
+            "advantage",
+            "middlegame",
+            "pin",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "tAGMw",
+        "fen": "r2q1rk1/2p1b1pp/p3b2B/1p1pN3/3P4/P2B3P/1P3PP1/2Q2RK1 b - - 2 19",
+        "rating": 1503,
+        "ratingdeviation": 75,
+        "moves": [
+            "g7h6",
+            "c1h6",
+            "e6f5",
+            "d3f5",
+            "f8f5",
+            "h6e6",
+            "g8h8",
+            "e6f5"
+        ],
+        "themes": [
+            "advantage",
+            "attraction",
+            "fork",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "til1c",
+        "fen": "rnb1r1k1/pp3ppp/8/8/2q5/6PP/PP1QNPB1/R3K2R w KQ - 2 16",
+        "rating": 1583,
+        "ratingdeviation": 106,
+        "moves": [
+            "b2b3",
+            "e8e2",
+            "d2e2",
+            "c4c3",
+            "e1f1",
+            "c3a1",
+            "e2e1",
+            "a1e1"
+        ],
+        "themes": [
+            "advantage",
+            "fork",
+            "middlegame",
+            "sacrifice",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "nezAe",
+        "fen": "2r3k1/1b1q1pr1/p3pR1Q/1p1pP3/8/1P2P2P/PP4P1/5RK1 b - - 0 34",
+        "rating": 1685,
+        "ratingdeviation": 199,
+        "moves": [
+            "g7h7",
+            "h6h7",
+            "g8h7",
+            "f6f7",
+            "d7f7",
+            "f1f7",
+            "h7g6",
+            "f7b7"
+        ],
+        "themes": [
+            "advantage",
+            "attraction",
+            "fork",
+            "middlegame",
+            "sacrifice",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "Vixoc",
+        "fen": "r1q3k1/1pp2pp1/p4n1p/5N2/8/2P1r3/PPQ3PP/1B1R2K1 b - - 1 25",
+        "rating": 1486,
+        "ratingdeviation": 75,
+        "moves": [
+            "e3e4",
+            "c2e4",
+            "f6e4",
+            "f5e7",
+            "g8f8",
+            "e7c8",
+            "a8c8",
+            "b1e4"
+        ],
+        "themes": [
+            "advantage",
+            "fork",
+            "middlegame",
+            "sacrifice",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "9dPOR",
+        "fen": "r2q1rk1/p3ppbp/2p1b1p1/2p3B1/4N3/3P4/PPP3PP/R2QR1K1 w - - 6 15",
+        "rating": 1119,
+        "ratingdeviation": 472,
+        "moves": [
+            "e4c5",
+            "g7d4",
+            "g5e3",
+            "d4e3",
+            "e1e3",
+            "d8d4",
+            "d1e2",
+            "d4c5"
+        ],
+        "themes": [
+            "advantage",
+            "clearance",
+            "fork",
+            "middlegame",
+            "pin",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "KEbdA",
+        "fen": "5rk1/2qn1ppp/p2Np1P1/2P1P3/1r1p1P1Q/5R1P/8/R5K1 b - - 0 30",
+        "rating": 1651,
+        "ratingdeviation": 156,
+        "moves": [
+            "f7g6",
+            "h4e7",
+            "h7h6",
+            "e7e6",
+            "g8h8",
+            "d6f7",
+            "f8f7",
+            "e6f7"
+        ],
+        "themes": [
+            "advantage",
+            "kingsideAttack",
+            "middlegame",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "7Ym0H",
+        "fen": "2kr1r2/ppp3pp/8/4Rp2/2NP2qP/P1P2pP1/1PQ2P2/R5K1 w - - 1 26",
+        "rating": 1553,
+        "ratingdeviation": 74,
+        "moves": [
+            "g1f1",
+            "g4h3",
+            "f1e1",
+            "h3h1",
+            "e1d2",
+            "h1a1",
+            "e5e1",
+            "a1a2"
+        ],
+        "themes": [
+            "advantage",
+            "middlegame",
+            "skewer",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "GN4zL",
+        "fen": "2k4r/ppp2p2/8/3P3p/2P2qrP/2N2pP1/PP3P2/R2QR1K1 w - - 3 21",
+        "rating": 1529,
+        "ratingdeviation": 75,
+        "moves": [
+            "e1e4",
+            "g4g3",
+            "f2g3",
+            "f4g3",
+            "g1f1",
+            "g3g2",
+            "f1e1",
+            "f3f2"
+        ],
+        "themes": [
+            "advancedPawn",
+            "advantage",
+            "kingsideAttack",
+            "middlegame",
+            "sacrifice",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "MWHOk",
+        "fen": "6k1/p3p1b1/p1p1p1pp/2q5/3r2PP/P1N2Q2/1P6/4RRK1 w - - 0 27",
+        "rating": 1544,
+        "ratingdeviation": 167,
+        "moves": [
+            "e1e6",
+            "d4g4",
+            "g1h2",
+            "g4h4",
+            "h2g2",
+            "c5g5",
+            "f3g3",
+            "h4g4"
+        ],
+        "themes": [
+            "advantage",
+            "doubleCheck",
+            "exposedKing",
+            "middlegame",
+            "pin",
+            "veryLong"
+        ]
+    },
+    {
+        "puzzleid": "bkBsN",
+        "fen": "r1bqk1r1/1p1p1p2/p4R2/2b1p3/4P2Q/P2B3P/1PP3P1/5R1K b q - 2 25",
+        "rating": 1567,
+        "ratingdeviation": 134,
+        "moves": [
+            "c5e7",
+            "h4h7",
+            "e7f6",
+            "h7g8",
+            "e8e7",
+            "g8d8",
+            "e7d8",
+            "f1f6"
+        ],
+        "themes": [
+            "advantage",
+            "middlegame",
+            "veryLong"
+        ]
+    }
+]

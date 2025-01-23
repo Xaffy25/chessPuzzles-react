@@ -15,7 +15,7 @@ const options = {
   },
   headers: {
     'content-type': 'application/octet-stream',
-    'X-RapidAPI-Key': 'd346177001msh42f5444024cec33p153a1bjsnfa8fab2712d8',
+    'X-RapidAPI-Key': 'xxxxxxxxxxxxxxxxxxxxxxxx',
     'X-RapidAPI-Host': 'chess-puzzles.p.rapidapi.com'
   }
 };
